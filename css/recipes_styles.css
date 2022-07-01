@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    height: auto;
+    width: 600px;
+    
+}
+ol{
+    width: 50%;
+}
+ol li{
+    font-weight: 300;
+}
