@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background-color: #284b63;
+    color: #d9d9d9;
+    padding: 1em;
+}
+
+h2 {
+    background-color: #461220;
+    color: #fed0bb;
+    margin: -1em -1em 1em -1em;
+    padding: 1em;
+}
+
+.food-type {
+    background-color: #cac2b5;
+    padding: 1em;
+    color: #4d243d;
+    margin: 1em 0;
+}
+
+.veg {
+    margin: .75em 0;
+}
+
+a {
+    text-decoration: none;
+    color: #4d243d
+}
+
+a:hover {
+    font-size: 125%;
+}
+
+li {
+    margin: .5em 0;
+    list-style-type: none;
+}
+
+body img {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 1em auto 2em;
+}
+
+.page-sections {
+    background-color: #3e4244;
+    color: #e2e2e2;
+    padding: 1em;
+    margin: 1em 0;
+}
+
+.page-sections ul li {
+    list-style-type: disc;
+    margin: .5em;
+}
+
+.page-sections ol li {
+    list-style-type: decimal;
+    margin: .5em;
+}
